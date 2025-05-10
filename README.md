@@ -29,7 +29,7 @@ const jonas = {
 };
 ```
 
-Soy un estudiante entusiasta y dedicado con gran interés en el desarrollo de software. Actualmente me encuentro avanzando en mi formación, trabajando en proyectos reales que me permiten aplicar y consolidar mis conocimientos. Me caracterizo por mi capacidad de aprendizaje rápido, mi curiosidad y mi disposición para enfrentar nuevos desafíos tecnológicos en equipo.
+Soy una persona apasionada por la tecnología y el desarrollo de software. Aunque estudiar de forma tradicional no es lo que más disfruto, me motiva mucho aprender haciendo. Actualmente me encuentro en formación, participando en proyectos reales donde aplico y fortalezco mis conocimientos.
 
 ## 🛠️ Tecnologías que estoy aplicando
 
